@@ -1,3 +1,5 @@
+![Health](Health_Photo.png)
+
 **Objective** The notebook aims to build a machine learning model to predict diabetes status (Yes, No, Prediabetes) using a healthcare dataset.
 
 **Methodology**
